@@ -1,0 +1,10 @@
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\bin\Debug\ProgramHub5.exe.config
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\bin\Debug\ProgramHub5.exe
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\bin\Debug\ProgramHub5.pdb
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.csprojAssemblyReference.cache
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.Form1.resources
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.Properties.Resources.resources
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.csproj.GenerateResource.cache
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.csproj.CoreCompileInputs.cache
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.exe
+C:\Users\ASD\source\repos\NewRepo2\ProgramHub5\ProgramHub5\obj\Debug\ProgramHub5.pdb
